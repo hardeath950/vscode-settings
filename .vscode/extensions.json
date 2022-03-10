@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    // up to you
+    "IronGeek.vscode-env",
+    "quicktype.quicktype",
+    "csstools.postcss",
+    "redhat.vscode-yaml",
+    "voorjaar.windicss-intellisense",
+    "WakaTime.vscode-wakatime",
+
+    // theme n icons
+    "will-stone.plastic",
+    "afzalsayed96.icones",
+    
+    // antfu
+    "antfu.iconify",
+    "antfu.unocss",
+    "lokalise.i18n-ally",
+    
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "johnsoncodehk.volar",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+  ]
+}
