@@ -9,6 +9,7 @@
     "nprogress",
     "pinia",
     "primevue",
+    "Serializers",
     "styleclass",
     "Topbar",
     "unocss",
@@ -23,12 +24,12 @@
   "editor.find.addExtraSpaceOnTop": false,
   "editor.fontFamily": "Input Mono, Fira Code, monospace",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
-  "editor.fontSize": 13.5,
+  "editor.fontSize": 14,
   "editor.glyphMargin": true,
   "editor.guides.bracketPairs": "active",
   "editor.inlineSuggest.enabled": true,
-  "editor.lineNumbers": "interval",
-  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.lineNumbers": "on",
+  // "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "boundary",
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
@@ -86,7 +87,7 @@
   },
 
   // Extension configs
-  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.showSuggestionsAsSnippets": false,
   "emmet.triggerExpansionOnTab": false,
   "errorLens.enabledDiagnosticLevels": [
     "warning",
@@ -171,7 +172,7 @@
       "stash": true
     }
   },
-  "i18n-ally.autoDetection": false,
+  "i18n-ally.autoDetection": true,
   "i18n-ally.displayLanguage": "en",
   "i18n-ally.ignoredLocales": [],
   "iconify.annotations": true,
@@ -179,13 +180,17 @@
   "svg.preview.mode": "svg",
   "volar.autoCompleteRefs": false,
   "volar.codeLens.pugTools": false,
-  "volar.codeLens.scriptSetupTools": true,
+  "volar.codeLens.scriptSetupTools": false,
   "volar.completion.preferredTagNameCase": "pascal",
   "volar.showWelcomePage": false,
   "volar.takeOverMode.enabled": true,
   "windicss.enableCodeFolding": false,
   "workbench.colorTheme": "Plastic - deprioritised punctuation",
-  "editor.tokenColorCustomizations": {
+  "i18n-ally.localesPaths": [
+    "locales"
+  ],
+  "i18n-ally.keystyle": "nested",
+   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
         "scope": "variable.other.constant",
