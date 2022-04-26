@@ -185,7 +185,7 @@
   "volar.showWelcomePage": false,
   "volar.takeOverMode.enabled": true,
   "windicss.enableCodeFolding": false,
-  "workbench.colorTheme": "Plastic - deprioritised punctuation",
+  "workbench.colorTheme": "Plastic",
   "i18n-ally.localesPaths": [
     "locales"
   ],
