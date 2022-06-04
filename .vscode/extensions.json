@@ -3,25 +3,38 @@
     // up to you
     "IronGeek.vscode-env",
     "quicktype.quicktype",
-    "csstools.postcss",
     "redhat.vscode-yaml",
+    "amodio.tsl-problem-matcher",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "GitHub.vscode-pull-request-github",
+    "mpontus.tab-cycle",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
     "voorjaar.windicss-intellisense",
     "WakaTime.vscode-wakatime",
+    "znck.grammarly",
 
     // theme n icons
-    "will-stone.plastic",
-    "afzalsayed96.icones",
-    
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "file-icons.file-icons",
+    "sainnhe.gruvbox-material",
+
     // antfu
     "antfu.iconify",
     "antfu.unocss",
     "lokalise.i18n-ally",
-    
+    "antfu.vite",
+    "antfu.where-am-i",
+
     // life savers!
     "dbaeumer.vscode-eslint",
-    "johnsoncodehk.volar",
+    "Vue.volar",
     "GitHub.copilot",
     "usernamehw.errorlens",
-    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker"
   ]
+
 }
