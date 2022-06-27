@@ -1,4 +1,4 @@
-## My VS Code Setttings
+## VS Code Setttings
 
 Shared by @[antfu](https://github.com/antfu/vscode-settings)
 
