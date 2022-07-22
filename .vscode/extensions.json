@@ -8,7 +8,6 @@
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "GitHub.vscode-pull-request-github",
-    "mpontus.tab-cycle",
     "naumovs.color-highlight",
     "richie5um2.vscode-sort-json",
     "unional.vscode-sort-package-json",
@@ -17,20 +16,18 @@
     "znck.grammarly",
 
     // theme n icons
-    "antfu.icons-carbon",
-    "antfu.theme-vitesse",
+    "will-stone.plastic",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
 
     // antfu
     "antfu.iconify",
     "antfu.unocss",
     "lokalise.i18n-ally",
-    "antfu.where-am-i",
 
     // life savers!
     "dbaeumer.vscode-eslint",
     "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
     "GitHub.copilot",
     "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker"
