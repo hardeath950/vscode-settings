@@ -16,6 +16,11 @@
     "jsonc",
     "json5"
   ],
+  "prettier.enable": false,
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.formatOnSave": false,
   "editor.accessibilitySupport": "off",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.find.addExtraSpaceOnTop": false,
@@ -202,7 +207,6 @@
   },
   "workbench.iconTheme": "file-icons",
   "workbench.editor.enablePreview": false,
-  "editor.formatOnSave": true,
   "githubPullRequests.pullBranch": "never",
   "synthwave84.brightness": 4,
   "workbench.colorTheme": "SynthWave '84",
