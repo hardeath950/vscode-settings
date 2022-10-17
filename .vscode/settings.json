@@ -95,7 +95,6 @@
   "volar.codeLens.scriptSetupTools": false,
   "volar.completion.preferredTagNameCase": "pascal",
   "volar.takeOverMode.enabled": "auto",
-  "windicss.enableCodeFolding": false,
   // File Nesting
   // this might not be up to date with the repo, please check yourself
   // updated 2022-03-10 06:10
@@ -178,8 +177,68 @@
   "sonarlint.rules": {
     "Web:FieldsetWithoutLegendCheck": {
       "level": "off"
+    },
+    "javascript:S3776": {
+      "level": "off"
     }
   },
   "workbench.iconTheme": "file-icons",
-  "workbench.editor.enablePreview": false
+  "workbench.editor.enablePreview": false,
+  "editor.formatOnSave": true,
+  "githubPullRequests.pullBranch": "never",
+  "synthwave84.brightness": 4,
+  "workbench.colorTheme": "SynthWave '84",
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    },
+    "fish": {
+      "path": "fish"
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    },
+    "zsh (2)": {
+      "path": "/usr/bin/zsh"
+    }
+  },
+  "window.zoomLevel": -1
 }
