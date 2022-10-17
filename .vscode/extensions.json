@@ -16,12 +16,13 @@
     "znck.grammarly",
 
     // theme n icons
-    "will-stone.plastic",
+    "RobbOwen.synthwave-vscode",
     "file-icons.file-icons",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
 
     // antfu
     "antfu.iconify",
-    "antfu.unocss",
     "lokalise.i18n-ally",
 
     // life savers!
