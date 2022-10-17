@@ -1,4 +1,21 @@
 {
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "json5"
+  ],
   "editor.accessibilitySupport": "off",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.find.addExtraSpaceOnTop": false,
@@ -162,6 +179,7 @@
   "redhat.telemetry.enabled": true,
   "editor.minimap.enabled": false,
   "cSpell.userWords": [
+    "antfu",
     "dont",
     "Iconify",
     "pnpm",
